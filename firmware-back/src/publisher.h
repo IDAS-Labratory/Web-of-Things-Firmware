@@ -12,8 +12,6 @@ class Publisher {
         String getBrokerAddress();
         char* getBrokerTopic();
 
-
-
     private:
         IPAddress BrokerHost;
         uint16_t BrokerPort;

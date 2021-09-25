@@ -1,9 +1,3 @@
-/*
-inspired by https://github.com/tzapu/WiFiManager but 
-- with more flexibility to add your own web server setup
-= state machine for changing wifi settings on the fly
-*/
-
 #include <Arduino.h>
 #include "LittleFS.h"
 

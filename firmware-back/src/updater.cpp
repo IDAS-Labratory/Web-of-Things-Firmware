@@ -1,5 +1,4 @@
 #include "updater.h"
-
 #include "LittleFS.h"
 
 void LittleFSUpdater::requestStart(String filenameIn)
