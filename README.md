@@ -2,7 +2,7 @@
 
 WoT firmware project is implemented as a starting point for using WoT-based devices in real IoT projects. This firmware is providing some basic IoT functionalities such as HTTP web server, MQTT-based event publisher, DHT11 sensor management, interactive web interface, network manager, configuration manager, live dashboard and Over-The-Air updates. Also, the UI implementation of this firmware is attached to this repository to help developers to customize or modify for their projects.
 
-![Firmware-Dashboard]()
+![Firmware-Dashboard](https://github.com/IDAS-Labratory/Web-of-Things-Firmware/blob/master/doc/UI/UI.png?raw=true)
 
 ## Table of Contents
 - [Requirements](#Requirements)
