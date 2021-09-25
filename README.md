@@ -2,6 +2,8 @@
 
 WoT firmware project is implemented as a starting point for using WoT-based devices in real IoT projects. This firmware is providing some basic IoT functionalities such as HTTP web server, MQTT-based event publisher, DHT11 sensor management, interactive web interface, network manager, configuration manager, live dashboard and Over-The-Air updates. Also, the UI implementation of this firmware is attached to this repository to help developers to customize or modify for their projects.
 
+![Firmware-Dashboard]()
+
 ## Table of Contents
 - [Requirements](#Requirements)
      - [Hardware Requirements](#Hardware-Requirements)
@@ -19,13 +21,13 @@ WoT firmware project is implemented as a starting point for using WoT-based devi
 ## Requirements
 
 ### Hardware Requirements
-* [Wemos D1](http://www.esp8266learning.com/wemos-d1-esp8266-based-board.php) mini or any type of [ESP8266](https://www.espressif.com/en/products/modules/esp8266) board.
+* [Wemos D1](http://www.esp8266learning.com/wemos-d1-esp8266-based-board.php), mini or any type of [ESP8266](https://www.espressif.com/en/products/modules/esp8266) board.
 
 * [DHT11](https://www.adafruit.com/product/386) sensor
 
 ### Software Requirements
 
-* [PlatformIO](https://platformio.org/) to develop and deploy firmware on ESP8266. It is recommended to install PlatformIO as a extensions on VSCode. Read more about installing PlatformIO [here](https://platformio.org/install/ide?install=vscode).
+* [PlatformIO](https://platformio.org/), to develop and deploy firmware on ESP8266. It is recommended to install PlatformIO as a extensions on VSCode. Read more about installing PlatformIO [here](https://platformio.org/install/ide?install=vscode).
 
 ## Installation
 
